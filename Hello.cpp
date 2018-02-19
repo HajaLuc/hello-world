@@ -1,4 +1,4 @@
 #include <iostream>
 void miarahaba(){
-	printf("Hello ");
+	cout << "Hello ";
 }
